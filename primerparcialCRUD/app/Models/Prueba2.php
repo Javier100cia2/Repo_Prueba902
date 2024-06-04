@@ -1,0 +1,1 @@
+Esta es una practica para git revert al archivo prueba2.php
